@@ -1,10 +1,7 @@
-Flask==2.2.3
-Werkzeug==2.2.2
-deepface==0.0.75
-tensorflow==2.16.1
-opencv-python-headless==4.8.0.74
-numpy==1.24.3
-tf-keras==2.16.1
-gunicorn==20.1.0
-Flask-Cors==3.0.10
-
+Flask==3.0.0
+deepface==0.0.92
+tensorflow==2.17.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+gunicorn==22.0.0
+Flask-Cors==4.0.1
